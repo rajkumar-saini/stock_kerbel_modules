@@ -1,0 +1,11 @@
+BUILD INFORMATION
+  SW Version: devonf_g_sys-user 14 U1TNS34.82-12-7-25 86c959-5b006d release-keys MUR1-0.101
+  MBM Version: MBM-3.1-devonf_g_vext-a9ce5-U1TNS34.82-12-7-25-86c959
+  Modem Version: MT6855R_TC2.PR4.SP.V7.P60.02.75R
+  SW Display Build ID: U1TNS34.82-12-7-25
+  Build Fingerprint: motorola/devonf_g_sys/devonf:14/U1TNS34.82-12-7-25/86c959-5b006d:user/release-keys
+
+OTHER INFORMATION
+  Subsidy Lock Config: slcf_mediatek_default_v1.0.atc
+  Regulatory Info (eLabel): regulatory_info_default.png
+  eLabel SHA1: da39a3ee5e6b4b0d3255bfef95601890afd80709
